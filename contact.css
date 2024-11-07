@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+ 
+}
+.heading{
+    background-color: #f1667f;
+   line-height: 32px;
+   color: black;
+}
+.w{
+    background-color: black;
+}
+.wt{
+    border: solid black ;
+    
+}
+.foot{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
