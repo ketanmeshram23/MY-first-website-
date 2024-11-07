@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Document</title>
+<style>
+.main{
+border:2px solid red;
+padding:40px;
+}
+.box1{
+border:2px solid black;
+width:80px;
+padding:5px;;
+height:80px;
+text-align: center;
+margin:-30px;
+}
+.box2{
+border:2px solid black;
+padding:8px;
+width:200px;
+margin-left: 80px;
+margin-top: -90px;
+background-color: green;
+}
+.box3{
+border:2px solid black;
+padding:8px;
+width:100px;
+margin-left: 80px;
+margin-top: 10px;
+}
+.nav{
+/* border:2px solid black; */
+padding:10px;
+display:flex;
+margin-left: 65px;
+
+
+}
+.nav div{
+border:2px solid black;
+padding:9px;
+margin:4px;
+width:40px;
+background-color: green;
+}
+
+</style>
+</head>
+<body>
+<div class="main">
+<div class="box1">LOGO</div>
+<div class="box2"></div>
+<div class="box3"></div>
+<div class="nav">
+<div class="box4"></div>
+<div class="box5"></div>
+<div class="box6"></div>
+<div class="box7"></div>
+<div class="box8"></div>
+<div class="box9"></div>
+</div>
+</div>
+
+
+
+
+
+
+
+
+</div>
+</body>
+</html>

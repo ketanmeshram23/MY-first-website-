@@ -1,0 +1,84 @@
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+
+}
+.w{
+   background-color: rgb(0, 0, 0);
+}
+.logo{
+   padding-right: 20px;
+}
+.heading{
+   background-color: #f1667f;
+   line-height: 32px;
+   
+}
+
+.searchbar{
+   padding-left: 200px;
+   width: 300px;
+    padding: 10px;
+    display: flex;
+    padding-left: 300px;
+    shoad    
+}   
+
+input {
+   border: solid rgb(163, 155, 155);
+   height: 35px;
+   width:600px;
+} 
+
+.logo img{
+   height: 100px;
+   width: ;
+   padding-bottom:0px;
+   
+}
+nav{
+   flex: 3;
+   text-align: center;
+}
+nav ul {
+   display: inline-block;
+   margin-right: 20px;
+   list-style: none;
+}
+nav ul li{
+   display: inline-block;
+   list-style-type: none;
+   margin-right: 110px;
+   padding-bottom: 10px;
+   margin: 60px;
+}
+nav ul li p{
+   color: #f90015;
+}
+
+.banner{
+   margin-bottom:0px;
+   padding: 0px;
+   padding-right:2000px ;
+   width: 200px;
+   height: 600px;
+   margin: 10px auto;
+}
+ul li ul.dropdown li{
+   display: block;
+}
+ul li ul.dropdown li{
+   width: 100%;
+   position: absolute;
+   z-index: 999;
+   display: none;
+}
+div.gender h2{
+   text-align: center;
+   
+
+}
+div.gender img{
+   size: 200px;
+}
